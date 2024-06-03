@@ -1,3 +1,3 @@
 [submodule "x/y"]
 	path = A/modules/x
-	url = /Users/dlomellini/Assess327/git_exploit/check
+	url = https://github.com/JJWalker27/check.git
